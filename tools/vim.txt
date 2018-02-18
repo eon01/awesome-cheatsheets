@@ -161,6 +161,7 @@ q                   end recording macro
 ##############################################################################
 
 
+:set nu             Display line numbers
 v                   start visual mode, mark lines, then do command (such as y-yank)
 V                   start linewise visual mode
 o                   move to other end of marked area
